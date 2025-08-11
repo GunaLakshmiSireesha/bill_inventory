@@ -10,3 +10,15 @@ This project is a simple inventory billing system built using Vue.js and Bootstr
 - Dynamic product and stock management
 - Responsive modal forms for bill entry
 - Bootstrap styling for tables
+
+# Usage
+
+1. Open `Inventory_bill_System.html` in your browser.
+2. Click **Add Bill** to create a new bill.
+3. Fill in customer details and select products.
+4. Edit or delete bills as needed.
+
+# File Structure
+
+- `Inventory_bill_System.html`: Main application file
+- Uses CDN for Vue.js and Bootstrap
